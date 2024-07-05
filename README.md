@@ -25,4 +25,4 @@ This Python script is designed to retrieve an administrator password from a vuln
 Run the script with the following command:
 
 ```bash
-python lab11.py <url> <length>
+python lab[num].py <url> <length>
